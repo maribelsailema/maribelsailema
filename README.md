@@ -19,13 +19,13 @@ Disfruto aprender nuevas tecnologías, mejorar mi código cada día y participar
 -JavaScript ⭐
 -HTML 🧩 
 -CSS 🎨 
----
+
 #### 🗄️ Bases de datos
 -Oracle 🗄️
 -MySQL 🐬
 -PostgreSQL 🐘 
 -SQL Server 🧾
----
+
 
 ### 💡 Qué me gusta hacer
 - 🧩 Crear APIs y lógica de negocio con **Java** y **PHP**  
