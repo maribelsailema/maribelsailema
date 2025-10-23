@@ -14,17 +14,17 @@ Disfruto aprender nuevas tecnologías, mejorar mi código cada día y participar
 ### 🛠️ Tecnologías que uso
 
 #### 💻 Lenguajes y herramientas
--Java ☕ 
--PHP 🐘
--JavaScript ⭐
--HTML 🧩 
--CSS 🎨 
+- Java ☕
+- PHP 🐘
+- JavaScript ⭐
+- HTML 🧩
+- CSS 🎨
 
 #### 🗄️ Bases de datos
--Oracle 🗄️
--MySQL 🐬
--PostgreSQL 🐘 
--SQL Server 🧾
+- Oracle 🗄️
+- MySQL 🐬
+- PostgreSQL 🐘
+- SQL Server 🧾
 
 
 ### 💡 Qué me gusta hacer
